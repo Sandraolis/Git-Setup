@@ -1,1 +1,1 @@
-# Git-Setup
+# Github setup
